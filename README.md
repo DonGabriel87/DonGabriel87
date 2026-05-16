@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Jhovany Jaime
 
 ---
-A Full-Stack Junior Developer graduating soon from TecNM with a degree in Computer Systems Engineering.
+A Full-Stack Junior Developer graduate from TecNM with a degree in Computer Systems Engineering.
 
 ---
 Outside of tech, I'm a person who enjoys music, video games, hang out with friends, nature and food.
