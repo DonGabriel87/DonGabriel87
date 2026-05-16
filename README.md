@@ -7,7 +7,7 @@ A Full-Stack Junior Developer graduate from TecNM with a degree in Computer Syst
 Outside of tech, I'm a person who enjoys music, video games, hang out with friends, nature and food.
 
 - ⚙️ I normally use: `.dart`, `.html`, `.js`, `jsx`, `.css`, `.svg`, `.yaml`, `.astro`.
-- 💅 Designed: [JJHumusWeb](www.carbo-vit.com)
+- 💅 Designed: [JJHumusWeb](https://carbo-vit.com/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dongabriel87&" alt="dongabriel87" /></p>
 
